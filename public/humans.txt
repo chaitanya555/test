@@ -1,0 +1,30 @@
+ ______ 
+|  ____|
+| |__   
+|  __|  
+| |____ 
+|______|
+
+The humans.txt file explains the the details of this portfoilo and tells more about me.
+
+_______________________________________________________________________________
+
+DESIGNER | デザイナー
+
+Aditya Sharma
+Hand crafted design & web development
+
+Design tools:
+Photoshop
+
+twitter.com/adirockz004
+github.com/extinctsion
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Three js
+Popmotion
+
